@@ -1,0 +1,15 @@
+1001   Aoki      M  23  63.1
+1002   Enomoto   F  37  52.3
+1003   Fujita    M  17  69.3
+1004   Hayashi   M  43  55.7
+1005   Ishii     F  27  49.2
+1006   Kawai     M  55  83.7
+1007   Yoshida   F  16  56.4
+1008   Murakami  F  52  60.1
+1009   Ryuzaki   M  33  61.0
+1010   Nomura    M  18  71.5
+1011   Okada     M  27  73.8
+1012   Uchida    F  49  63.7
+1013   Shibata   M  25  67.3
+1014   Takeda    F  42  53.6
+1015   Wada      M  30  65.4

@@ -1,0 +1,15 @@
+Fujita   19
+Nakajima 21
+Aoki     23
+Shibata  25
+Okada    27
+Kubo     28
+Takeda   29
+Ishii    30
+Murakami 33
+Kawai    35
+Enomoto  37
+Nomura   38
+Wada     42
+Hayashi  43
+Sakamoto 48

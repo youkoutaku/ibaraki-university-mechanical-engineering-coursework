@@ -1,0 +1,6 @@
+ID		Name		Mini		Report		Final
+251001		sasaki		30.0		30.0		40
+251002		kato		25.0		25.0		35
+251003		sato		18.0		20.0		30
+251004		tanaka		15.0		15.0		20
+251005		yamamoto	22.0		20.0		28
